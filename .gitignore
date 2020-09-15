@@ -1,6 +1,6 @@
 package-lock.json
 how-to-use.text
-.md*
+*.md
 node_modules/
 *.log
 *.java
