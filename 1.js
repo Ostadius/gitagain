@@ -1,0 +1,1 @@
+cnsole.log(2);
